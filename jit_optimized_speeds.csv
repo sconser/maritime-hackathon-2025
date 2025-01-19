@@ -1,0 +1,6 @@
+imo,current_port_name,waiting_time_minutes,required_speed_knots,category,adjusted_speed_knots
+1013327,Singapore,11.83,1.49,Short (0-1 hr),1.49
+1015820,Singapore,947.7,1.73,Long (4+ hrs),1.3840000000000001
+1028437,Singapore,0.0,8.54,Short (0-1 hr),8.54
+1028437,Singapore,0.0,0.03,Short (0-1 hr),0.03
+1043011,Singapore,766.63,2.52,Long (4+ hrs),2.016
