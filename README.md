@@ -50,5 +50,5 @@ Implementing **JIT Arrival** can significantly enhance port efficiency and susta
 This project utilizes datasets provided by the **Maritime and Port Authority of Singapore (MPA)** and follows JIT methodologies recommended for maritime logistics.
 
 ---
-📌 **For more details, check the [project repository](https://github.com/maritime2025).**
+📌 **For more details, check the [project repository](https://github.com/sconser/maritime2025).**
 
