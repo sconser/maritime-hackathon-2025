@@ -1,0 +1,10 @@
+Header Name,Data Type,Units,Submission
+team_name,String,-,participants
+anc_before_jit,Float,Tonnes,570.5512454
+anc_after_jit,Float,Tonnes,381.5562835
+anc_savings_after_jit,Float,Tonnes,188.9949619
+avg_time_before_jit,Float,Hours,0.7813411101
+avg_time_after_jit,Float,Hours,0.505197977
+transit_before_jit,Float,Tonnes,55030.12758
+transit_after_jit,Float,Tonnes,17052.7408
+transit_savings_after_jit,Float,Tonnes,"37,977.39"
